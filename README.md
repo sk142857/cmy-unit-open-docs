@@ -122,7 +122,7 @@ option_list结构：
 |  401 |  Unauthorized：未经授权 |
 |  403 |  Forbidden：鉴权没有通过，没有权限访问资源 |
 
-- 响应结果(JSON)中的status状态码
+- 响应结果(JSON)中的errcode状态码
 
 当http状态码为200时，服务会返回响应结果（JSON格式），在JSON对象中的errcode参数，代表服务的最终响应状态码，其含义如下：
 
