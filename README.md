@@ -45,7 +45,7 @@ curl -X 'POST' \
 ```
 - Postman
 
-![输入图片说明](images/2022-07-20_13-01.png)
+![2022-07-20_13-01](https://user-images.githubusercontent.com/75599950/179907232-d1962ac8-ca4f-4364-b2f7-13c64fce165f.png)
 
 ### 参数说明
 
